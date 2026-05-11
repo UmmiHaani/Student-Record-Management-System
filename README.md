@@ -36,10 +36,6 @@ The executable included in this repository (`student_record_system`) was built f
 
 On recent versions of macOS, you may need to allow the binary under **System Settings → Privacy & Security** if Gatekeeper flags an unidentified developer. Use only binaries from sources you trust.
 
-## Project authorship
-
-This project was authored solely by **Ummi Haani** ([Itshaani123@gmail.com](mailto:Itshaani123@gmail.com)).
-
 ## Note on source code
 
 Original C++ source files are not published in this repository; only the compiled macOS binary is provided here for archival and demonstration purposes. If you are assessing or reviewing this work and require source artefacts, please contact the author using the email address above.
