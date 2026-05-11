@@ -38,4 +38,4 @@ On recent versions of macOS, you may need to allow the binary under **System Set
 
 ## Note on source code
 
-Original C++ source files are not published in this repository; only the compiled macOS binary is provided here for archival and demonstration purposes. If you are assessing or reviewing this work and require source artefacts, please contact the author using the email address above.
+Original C++ source files are not published in this repository; only the compiled macOS binary is provided here for archival and demonstration purposes. If you are assessing or reviewing this work and require source artefacts, please contact me.
